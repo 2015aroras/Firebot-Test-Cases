@@ -1,0 +1,25 @@
+Day: 1
+Wind: none
+
+> BYE
+HELP
+
+DATA
+STATUS
+
+NEXT <days>
+SHOW <attribute>
+
+FIRE <region>
+WIND <direction>
+EXTINGUISH <region>
+
+> Started a fire
+
+> Day: 2
+Wind: none
+
+> Invalid command
+
+> 
+bye

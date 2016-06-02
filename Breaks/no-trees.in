@@ -1,0 +1,23 @@
+show height
+show fire
+data
+status
+help
+wind all
+fire all
+extinguish all
+fire 0 0
+fire 0 1
+fire 1 0
+fire 1 1
+fire -1 0
+fire -1 -1
+fire 0 -1
+fire 0 0 0 0
+fire 0 0 -1 -1
+fire 0 0 1 2
+fire 0 0 1 1
+next 9
+data
+status
+bye

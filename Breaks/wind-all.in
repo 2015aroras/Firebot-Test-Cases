@@ -1,0 +1,29 @@
+fire 16 18
+show fire
+wind all
+show height
+next
+show fire
+show height
+next
+show fire
+show height
+next
+show fire
+show height
+next 5
+show fire
+show height
+next 10
+show fire
+show height
+next
+show fire
+show height
+next 20
+show fire
+show height
+next 20
+show fire
+show height
+bye

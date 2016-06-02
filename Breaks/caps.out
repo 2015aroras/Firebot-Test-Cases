@@ -1,0 +1,235 @@
+Day: 1
+Wind: none
+
+> BYE
+HELP
+
+DATA
+STATUS
+
+NEXT <days>
+SHOW <attribute>
+
+FIRE <region>
+WIND <direction>
+EXTINGUISH <region>
+
+> BYE
+HELP
+
+DATA
+STATUS
+
+NEXT <days>
+SHOW <attribute>
+
+FIRE <region>
+WIND <direction>
+EXTINGUISH <region>
+
+> BYE
+HELP
+
+DATA
+STATUS
+
+NEXT <days>
+SHOW <attribute>
+
+FIRE <region>
+WIND <direction>
+EXTINGUISH <region>
+
+> Damage: 0.00%
+Pollution: 0
+
+> Damage: 0.00%
+Pollution: 0
+
+> Damage: 0.00%
+Pollution: 0
+
+> Day: 1
+Wind: none
+
+> Day: 1
+Wind: none
+
+> Day: 1
+Wind: none
+
+> Day: 2
+Wind: none
+
+> Day: 3
+Wind: none
+
+> Day: 4
+Wind: none
+
+> Day: 6
+Wind: none
+
+> Day: 8
+Wind: none
+
+> Day: 10
+Wind: none
+
+> +-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> +-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> +-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> +-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> +-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> +-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> +-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> +-------------+
+|2 1 4   1    |
+|3           1|
+|3     1 2 4  |
+|    2 4 3   1|
+|  3   1 2 5 2|
+|  1 1 3 3    |
+|2 4     1   3|
++-------------+
+
+> +-------------+
+|2 1 4   1    |
+|3           1|
+|3     1 2 4  |
+|    2 4 3   1|
+|  3   1 2 5 2|
+|  1 1 3 3    |
+|2 4     1   3|
++-------------+
+
+> +-------------+
+|2 1 4   1    |
+|3           1|
+|3     1 2 4  |
+|    2 4 3   1|
+|  3   1 2 5 2|
+|  1 1 3 3    |
+|2 4     1   3|
++-------------+
+
+> +-------------+
+|2 1 4   1    |
+|3           1|
+|3     1 2 4  |
+|    2 4 3   1|
+|  3   1 2 5 2|
+|  1 1 3 3    |
+|2 4     1   3|
++-------------+
+
+> Started a fire
+
+> No fires were started
+
+> No fires were started
+
+> Started a fire
+
+> No fires were started
+
+> Started a fire
+
+> No fires were started
+
+> No fires were started
+
+> Extinguished fires
+
+> No fires to extinguish
+
+> Extinguished fires
+
+> Extinguished fires
+
+> No fires to extinguish
+
+> No fires to extinguish
+
+> Set wind to all
+
+> Set wind to all
+
+> Set wind to all
+
+> Set wind to none
+
+> Set wind to south
+
+> Set wind to west
+
+> Set wind to north
+
+> Set wind to east
+
+> Set wind to west
+
+> bye

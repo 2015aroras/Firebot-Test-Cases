@@ -1,0 +1,237 @@
+Day: 1
+Wind: none
+
+> BYE
+HELP
+
+DATA
+STATUS
+
+NEXT <days>
+SHOW <attribute>
+
+FIRE <region>
+WIND <direction>
+EXTINGUISH <region>
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Day: 2
+Wind: none
+
+> Day: 2
+Wind: none
+
+> Day: 3
+Wind: none
+
+> Day: 3
+Wind: none
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> +-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> +-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> +-------------+
+|2 1 4   1    |
+|3           1|
+|3     1 2 4  |
+|    2 4 3   1|
+|  3   1 2 5 2|
+|  1 1 3 3    |
+|2 4     1   3|
++-------------+
+
+> +-------------+
+|2 1 4   1    |
+|3           1|
+|3     1 2 4  |
+|    2 4 3   1|
+|  3   1 2 5 2|
+|  1 1 3 3    |
+|2 4     1   3|
++-------------+
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Started a fire
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> No fires were started
+
+> Invalid command
+
+> No fires were started
+
+> Invalid command
+
+> No fires were started
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Extinguished fires
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> No fires to extinguish
+
+> Invalid command
+
+> No fires to extinguish
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Set wind to all
+
+> Invalid command
+
+> Set wind to none
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Set wind to west
+
+> Invalid command
+
+> Set wind to west
+
+> Set wind to east
+
+> Invalid command
+
+> Invalid command
+
+> Set wind to south
+
+> Set wind to north
+
+> Set wind to all
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> bye

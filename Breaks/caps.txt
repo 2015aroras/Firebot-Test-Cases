@@ -1,0 +1,285 @@
+Day: 1
+Wind: none
+
+> help
+BYE
+HELP
+
+DATA
+STATUS
+
+NEXT <days>
+SHOW <attribute>
+
+FIRE <region>
+WIND <direction>
+EXTINGUISH <region>
+
+> HELP
+BYE
+HELP
+
+DATA
+STATUS
+
+NEXT <days>
+SHOW <attribute>
+
+FIRE <region>
+WIND <direction>
+EXTINGUISH <region>
+
+> hElP
+BYE
+HELP
+
+DATA
+STATUS
+
+NEXT <days>
+SHOW <attribute>
+
+FIRE <region>
+WIND <direction>
+EXTINGUISH <region>
+
+> dAtA
+Damage: 0.00%
+Pollution: 0
+
+> data
+Damage: 0.00%
+Pollution: 0
+
+> DATA
+Damage: 0.00%
+Pollution: 0
+
+> status
+Day: 1
+Wind: none
+
+> STATUS
+Day: 1
+Wind: none
+
+> sTaTuS
+Day: 1
+Wind: none
+
+> nExT
+Day: 2
+Wind: none
+
+> next
+Day: 3
+Wind: none
+
+> NEXT
+Day: 4
+Wind: none
+
+> next 2
+Day: 6
+Wind: none
+
+> NEXT 2
+Day: 8
+Wind: none
+
+> nExT 2
+Day: 10
+Wind: none
+
+> show fire
++-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> SHOW fire
++-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> sHoW fire
++-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> show fire
++-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> SHOW fIrE
++-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> sHoW FIRE
++-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> sHoW fIrE
++-------------+
+|. . .   .    |
+|.           .|
+|.     . . .  |
+|    . . .   .|
+|  .   . . . .|
+|  . . . .    |
+|. .     .   .|
++-------------+
+
+> sHoW height
++-------------+
+|2 1 4   1    |
+|3           1|
+|3     1 2 4  |
+|    2 4 3   1|
+|  3   1 2 5 2|
+|  1 1 3 3    |
+|2 4     1   3|
++-------------+
+
+> sHoW HEIGHT
++-------------+
+|2 1 4   1    |
+|3           1|
+|3     1 2 4  |
+|    2 4 3   1|
+|  3   1 2 5 2|
+|  1 1 3 3    |
+|2 4     1   3|
++-------------+
+
+> sHoW HEIGHT
++-------------+
+|2 1 4   1    |
+|3           1|
+|3     1 2 4  |
+|    2 4 3   1|
+|  3   1 2 5 2|
+|  1 1 3 3    |
+|2 4     1   3|
++-------------+
+
+> sHoW hEiGhT
++-------------+
+|2 1 4   1    |
+|3           1|
+|3     1 2 4  |
+|    2 4 3   1|
+|  3   1 2 5 2|
+|  1 1 3 3    |
+|2 4     1   3|
++-------------+
+
+> fIrE 0 0
+Started a fire
+
+> fIrE 0 0 1 1
+No fires were started
+
+> fire 0 0
+No fires were started
+
+> fire 0 0 2 2
+Started a fire
+
+> FIRE 0 0
+No fires were started
+
+> FIRE all
+Started a fire
+
+> FIRE ALL
+No fires were started
+
+> fIrE aLl
+No fires were started
+
+> extinguish 0 0
+Extinguished fires
+
+> EXTINGUISH 0 0
+No fires to extinguish
+
+> eXtInGuIsH 0 0 2 2
+Extinguished fires
+
+> extinguish all
+Extinguished fires
+
+> eXtInGuIsH aLl
+No fires to extinguish
+
+> EXTINGUISH ALL
+No fires to extinguish
+
+> wind all
+Set wind to all
+
+> wInD all
+Set wind to all
+
+> wInD aLl
+Set wind to all
+
+> wInD nOnE
+Set wind to none
+
+> wInD sOuTh
+Set wind to south
+
+> wInD wEsT
+Set wind to west
+
+> wInD nOrTh
+Set wind to north
+
+> wInD eAsT
+Set wind to east
+
+> wInD wEst
+Set wind to west
+
+> bYe
+bye

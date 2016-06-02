@@ -1,0 +1,1 @@
+Usage: java Firebot <seed> <width> <height>

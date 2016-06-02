@@ -1,0 +1,16 @@
+show height
+show fire
+fire 3 3
+show height
+show fire
+next 10
+show fire
+show height
+next
+show fire
+show height
+wind all
+next
+show fire
+show height
+bye

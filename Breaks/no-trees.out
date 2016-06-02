@@ -1,0 +1,68 @@
+Day: 1
+Wind: none
+
+> +-+
+| |
++-+
+
+> +-+
+| |
++-+
+
+> Damage: 0.00%
+Pollution: 0
+
+> Day: 1
+Wind: none
+
+> BYE
+HELP
+
+DATA
+STATUS
+
+NEXT <days>
+SHOW <attribute>
+
+FIRE <region>
+WIND <direction>
+EXTINGUISH <region>
+
+> Set wind to all
+
+> No fires were started
+
+> No fires to extinguish
+
+> No fires were started
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> Invalid command
+
+> No fires were started
+
+> Day: 10
+Wind: all
+
+> Damage: 0.00%
+Pollution: 0
+
+> Day: 10
+Wind: all
+
+> bye

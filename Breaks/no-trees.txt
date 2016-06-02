@@ -1,0 +1,91 @@
+Day: 1
+Wind: none
+
+> show height
++-+
+| |
++-+
+
+> show fire
++-+
+| |
++-+
+
+> data
+Damage: 0.00%
+Pollution: 0
+
+> status
+Day: 1
+Wind: none
+
+> help
+BYE
+HELP
+
+DATA
+STATUS
+
+NEXT <days>
+SHOW <attribute>
+
+FIRE <region>
+WIND <direction>
+EXTINGUISH <region>
+
+> wind all
+Set wind to all
+
+> fire all
+No fires were started
+
+> extinguish all
+No fires to extinguish
+
+> fire 0 0
+No fires were started
+
+> fire 0 1
+Invalid command
+
+> fire 1 0
+Invalid command
+
+> fire 1 1
+Invalid command
+
+> fire -1 0
+Invalid command
+
+> fire -1 -1
+Invalid command
+
+> fire 0 -1
+Invalid command
+
+> fire 0 0 0 0
+Invalid command
+
+> fire 0 0 -1 -1
+Invalid command
+
+> fire 0 0 1 2
+Invalid command
+
+> fire 0 0 1 1
+No fires were started
+
+> next 9
+Day: 10
+Wind: all
+
+> data
+Damage: 0.00%
+Pollution: 0
+
+> status
+Day: 10
+Wind: all
+
+> bye
+bye
